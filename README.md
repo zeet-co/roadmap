@@ -4,7 +4,7 @@ This is the public roadmap for Zeet.
 
 ## View Roadmap
 
-https://github.com/zeet-co/roadmap/projects/1
+https://github.com/orgs/zeet-co/projects/1
 
 ## Request Features
 
